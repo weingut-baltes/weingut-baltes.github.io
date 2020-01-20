@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    font-family: "Georgia, serif";
+    padding: 10px;
+    min-width: 1000px;
+}
+
+img.logo {
+    width: 300px;
+    height: auto;
+}
+
+img.email {
+    display: block;
+    height: 35px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 35px;
+}
+
+img.flag {
+    display: inline-block;
+    height: 70px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h1 {
+    width: 800px;
+    font-size: 30px;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    width: 800px;
+    font-size: 20px;
+    margin: auto;
+}
+
+img.embedded {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    border: 1px solid lightgray;
+}
+
+p.foerderung {
+    padding-top: 20px;
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+}
