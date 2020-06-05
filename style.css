@@ -41,13 +41,13 @@ h2 {
     margin: auto;
 }
 
-h1.header {
-    padding-top: 20px;
+h2.header-top {
+    padding-top: 40px;
     padding-bottom: 20px;
 }
 
-h2.header {
-    padding-top: 40px;
+h2.header-bottom {
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 
